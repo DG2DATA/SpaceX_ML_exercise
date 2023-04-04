@@ -1,2 +1,2 @@
-# SpaceX_ML_exercise
-Exercise for a DS course
+# SpaceX_ML_exercises
+Exercises for a DS course
